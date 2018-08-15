@@ -1,0 +1,10 @@
+<form method="get">
+    <input id="q" name="q" type="text">
+
+</form>
+{% for item in posts %}
+    {{ item.id }}
+    {{ item.title }}
+    {{ item.description }}
+    {{ item.slug }}
+{% endfor %}
