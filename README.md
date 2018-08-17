@@ -1,7 +1,7 @@
 # Elasticsearch_Django_Search_operation
 Search your data in a much simpler and faster way by using Django-Elasticsearch.
 # Download 
-[Elasticsearch]https://www.elastic.co/downloads/past-releases/elasticsearch-6-1-0
+[Elasticsearch] https://www.elastic.co/downloads/past-releases/elasticsearch-6-1-0
 Start the service 
 (open CMD and elasticsearch.bat )
 
